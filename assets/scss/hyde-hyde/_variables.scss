@@ -19,7 +19,7 @@ $blue: #268bd2;
 $brown: #8f5536;
 
 //https://www.client9.com/css-system-font-stack-sans-serif-v3
-$root-font-family: "IBM Plex Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Droid Sans", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji","Segoe UI Emoji", "Segoe UI Symbol";
+$root-font-family: "Fira Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Droid Sans", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji","Segoe UI Emoji", "Segoe UI Symbol";
 
 // poole's variables
 $root-font-size: 17px;
@@ -89,7 +89,8 @@ $h5-font-size:1rem;
 
 
 // sidebar
-$sidebar-color: #300030;
+// $sidebar-color: #300030;
+$sidebar-color: #2A57A9;
 $sidebar-width: 16rem;
 $site__title-font-size: 2.5rem;
 $copyright-font-size: $font-scale-dot7;
